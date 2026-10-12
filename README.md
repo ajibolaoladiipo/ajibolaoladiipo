@@ -1,45 +1,49 @@
 # Ajibola Oladiipo
 
-**Food · Markets · State Institutions · Households**
+**Food, markets, state institutions, and households**
 
-My research asks a practical question. **How do food, markets, and state institutions shape whether Nigerian households can withstand economic shocks—and whether, ultimately, every household can eat?** I examine the systems through which food is produced, moved, priced, paid for, and supported—or constrained—by public institutions.
+I study how food, markets, and state institutions shape whether Nigerian households can withstand economic shocks and whether every household can eat.
 
-This is a cumulative research programme, not a set of unrelated applications. Work on food prices, post-harvest systems, rural labour, and state fiscal measurement each addresses a different part of the same problem. The aim is to build evidence that makes the problem more accurately diagnosable and, in turn, more amenable to serious policy and institutional response.
+This is a long term research programme. The projects gathered here ask different questions, use different forms of evidence, and examine different parts of Nigerian economic life. They are connected by one concern. I want to understand the systems that shape household food security clearly enough to support more serious public and institutional responses.
 
 ## Research agenda
 
-The programme develops evidence across four linked domains.
+My work begins with households. It asks how people obtain food when prices change, incomes are constrained, markets work unevenly, and public institutions face limits.
 
-- **Household food access and markets** — How do prices, market conditions, and spatial variation shape the food that households can obtain?
-- **Agricultural production and post-harvest systems** — How do labour, handling, logistics, and value chains affect the movement of food from production toward consumption?
-- **Institutions and public finance** — How do revenue, debt, and reporting systems shape the capacity and constraints of state action relevant to households and markets?
-- **Evidence and measurement** — Which claims can the available data actually sustain, and how can stronger source documentation and reproducibility improve research and policy diagnosis?
+It also follows food through agricultural production and after harvest. Labour, handling, logistics, and market access shape whether food reaches households in ways that are affordable and reliable.
 
-## Current public research portfolio
+It examines state institutions because public revenue, debt, and reporting practices help define the conditions in which governments respond to household and market pressures.
 
-| Building block | Repository | Contribution to the wider agenda |
-|---|---|---|
-| Food-market monitoring | [nigeria-food-price-monitoring](https://github.com/ajibolaoladiipo/nigeria-food-price-monitoring) | Tracks food-price trends, market conditions, and spatial variation relevant to household food access. |
-| Post-harvest systems | [postharvest-logistics](https://github.com/ajibolaoladiipo/postharvest-logistics) | Examines the logistics and handling systems through which agricultural output moves after harvest. |
-| Rural labour | [postharvest-labour-nigeria](https://github.com/ajibolaoladiipo/postharvest-labour-nigeria) | Documents how recorded labour arrangements, task participation, and hours organise post-harvest production. |
-| Fiscal measurement | [fiscal_proxy_measurement](https://github.com/ajibolaoladiipo/fiscal_proxy_measurement) | Tests how public-finance definitions and reporting choices shape what can responsibly be inferred about state fiscal capacity. |
-| State fiscal comparison | [nigerian-fiscal-ratios-2017-2022](https://github.com/ajibolaoladiipo/nigerian-fiscal-ratios-2017-2022) | Provides source-audited evidence on Nigerian state revenue and debt measurement across 2017–2022. |
+It treats careful measurement as part of the substantive work. Better source documentation, clear definitions, and reproducible analysis make problems easier to diagnose and solutions easier to assess.
 
-## Research standards
+## Current public work
 
-- Begin with problems that materially affect households and communities.
-- Preserve source lineage before constructing indicators or making comparisons.
-- Distinguish what the evidence demonstrates from explanations, mechanisms, and solutions it cannot establish.
-- State analytical units, denominators, and measurement restrictions explicitly.
-- Share code, aggregate benchmarks, and documentation where lawful and appropriate.
-- Keep restricted data, confidential derivatives, manuscripts, and peer-review materials outside public repositories.
+**[Nigeria food price monitoring](https://github.com/ajibolaoladiipo/nigeria-food-price-monitoring)**
 
-## Growing portfolio
+Tools for following food prices, market conditions, and geographic variation that matter for household food access.
 
-New public projects will be added here when they meet the same standards. Whether they concern food, markets, households, agricultural production, or public institutions, they will be treated as additional evidence on the central question—not as isolated portfolio items.
+**[Postharvest logistics](https://github.com/ajibolaoladiipo/postharvest-logistics)**
 
-For the complete and current list of public work, visit [all repositories](https://github.com/ajibolaoladiipo?tab=repositories).
+Research materials on how agricultural output is handled and moved after harvest.
 
----
+**[Postharvest labour in Nigeria](https://github.com/ajibolaoladiipo/postharvest-labour-nigeria)**
 
-*Public repositories provide research code, documentation, and permitted aggregate outputs. They do not necessarily contain source microdata, manuscripts, or every component required to reproduce restricted-data analyses without authorised access.*
+Computational materials for research on labour arrangements, task participation, and recorded labour hours in Nigerian farm households.
+
+**[Fiscal proxy measurement](https://github.com/ajibolaoladiipo/fiscal_proxy_measurement)**
+
+Materials that examine how revenue definitions, debt components, and valuation conventions shape the fiscal measures used to compare Nigerian states.
+
+**[Nigerian fiscal ratios from 2017 to 2022](https://github.com/ajibolaoladiipo/nigerian-fiscal-ratios-2017-2022)**
+
+Replication code and aggregate benchmarks for source audited measurement of Nigerian state revenue and debt.
+
+## Research practice
+
+I preserve source lineage before constructing indicators or making comparisons. I distinguish what the evidence demonstrates from explanations that the evidence cannot establish. I make analytical units, denominators, and measurement limits clear. I share code, aggregate benchmarks, and documentation where that is lawful and appropriate. I keep restricted data, confidential derivatives, manuscripts, and peer review materials outside public repositories.
+
+## A growing programme
+
+Every future public project will add another piece of evidence to this programme. Some will focus on food, some on markets, some on households, and some on public institutions. All will contribute to the same wider question of how Nigerians can secure food with greater resilience and dignity.
+
+The complete list of public projects is available in [my repositories](https://github.com/ajibolaoladiipo?tab=repositories).
