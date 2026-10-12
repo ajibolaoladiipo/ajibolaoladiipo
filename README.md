@@ -1,8 +1,8 @@
 # Ajibola Oladiipo
 
-**Institutions · Markets · Households**
+**Food · Markets · State Institutions · Households**
 
-My research asks a practical question: **how do institutions, markets, and household circumstances shape whether Nigerians get to eat?** I examine the systems through which food is produced, moved, priced, paid for, and supported—or constrained—by public institutions.
+My research asks a practical question: **how do food, markets, and state institutions shape whether Nigerian households can withstand economic shocks—and whether, ultimately, every household can eat?** I examine the systems through which food is produced, moved, priced, paid for, and supported—or constrained—by public institutions.
 
 This is a cumulative research programme, not a set of unrelated applications. Work on food prices, post-harvest systems, rural labour, and state fiscal measurement each addresses a different part of the same problem. The aim is to build evidence that makes the problem more accurately diagnosable and, in turn, more amenable to serious policy and institutional response.
 
