@@ -2,18 +2,18 @@
 
 **Institutions · Markets · Households**
 
-I study a simple but urgent question: **how do institutions, markets, and households shape whether Nigerians get to eat?** My research is invested in understanding—and ultimately helping to solve—the practical constraints that make food security fragile: food-price pressures, the organisation of agricultural production and labour, market access, and the fiscal and institutional conditions under which governments respond.
+My research asks a practical question: **how do institutions, markets, and household circumstances shape whether Nigerians get to eat?** I examine the systems through which food is produced, moved, priced, paid for, and supported—or constrained—by public institutions.
 
-Each project here is one building block in that wider agenda. They use different data and methods, but they are connected by the same concern: making the systems that determine household food security more visible, measurable, and open to improvement.
+This is a cumulative research programme, not a set of unrelated applications. Work on food prices, post-harvest systems, rural labour, and state fiscal measurement each addresses a different part of the same problem. The aim is to build evidence that makes the problem more accurately diagnosable and, in turn, more amenable to serious policy and institutional response.
 
 ## Research agenda
 
-My projects develop evidence across four connected parts of the same problem:
+The programme develops evidence across four linked domains:
 
-- **Households and food access** — How do food prices, market conditions, and spatial variation shape the food choices households can make?
-- **Agricultural production and post-harvest systems** — How do handling, logistics, value chains, and rural labour affect how food moves from production toward consumption?
-- **Institutions and state capacity** — How do public revenue, debt, and reporting systems affect the institutional context in which governments support households and markets?
-- **Research infrastructure** — How can better measurement, source documentation, and reproducible evidence improve the diagnosis of these problems and the policies intended to address them?
+- **Household food access and markets** — How do prices, market conditions, and spatial variation shape the food that households can obtain?
+- **Agricultural production and post-harvest systems** — How do labour, handling, logistics, and value chains affect the movement of food from production toward consumption?
+- **Institutions and public finance** — How do revenue, debt, and reporting systems shape the capacity and constraints of state action relevant to households and markets?
+- **Evidence and measurement** — Which claims can the available data actually sustain, and how can stronger source documentation and reproducibility improve research and policy diagnosis?
 
 ## Current public research portfolio
 
@@ -25,18 +25,18 @@ My projects develop evidence across four connected parts of the same problem:
 | Fiscal measurement | [fiscal_proxy_measurement](https://github.com/ajibolaoladiipo/fiscal_proxy_measurement) | Tests how public-finance definitions and reporting choices shape what can responsibly be inferred about state fiscal capacity. |
 | State fiscal comparison | [nigerian-fiscal-ratios-2017-2022](https://github.com/ajibolaoladiipo/nigerian-fiscal-ratios-2017-2022) | Provides source-audited evidence on Nigerian state revenue and debt measurement across 2017–2022. |
 
-## How I approach research
+## Research standards
 
-- Start with problems that matter to households and communities, then build evidence that can inform better institutional and market responses.
+- Begin with problems that materially affect households and communities.
 - Preserve source lineage before constructing indicators or making comparisons.
-- Separate what evidence shows from explanations or solutions it cannot yet establish.
-- Make analytical units, denominators, and measurement restrictions explicit.
+- Distinguish what the evidence demonstrates from explanations, mechanisms, and solutions it cannot establish.
+- State analytical units, denominators, and measurement restrictions explicitly.
 - Share code, aggregate benchmarks, and documentation where lawful and appropriate.
 - Keep restricted data, confidential derivatives, manuscripts, and peer-review materials outside public repositories.
 
 ## Growing portfolio
 
-New public projects will be added here as they are ready for release. Whether they concern food, markets, household welfare, agricultural production, or public institutions, they will contribute to the same long-term programme: building usable evidence for a Nigeria in which households can secure food with greater dignity and resilience.
+New public projects will be added here when they meet the same standards. Whether they concern food, markets, households, agricultural production, or public institutions, they will be treated as additional evidence on the central question—not as isolated portfolio items.
 
 For the complete and current list of public work, visit [all repositories](https://github.com/ajibolaoladiipo?tab=repositories).
 
